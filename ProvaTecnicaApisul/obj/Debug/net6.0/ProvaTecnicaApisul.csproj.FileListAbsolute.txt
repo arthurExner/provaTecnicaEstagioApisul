@@ -1,0 +1,15 @@
+C:\Users\tudye\Desktop\C#\ProvaApisul\ProvaTecnicaApisul\ProvaTecnicaApisul\bin\Debug\net6.0\ProvaTecnicaApisul.exe
+C:\Users\tudye\Desktop\C#\ProvaApisul\ProvaTecnicaApisul\ProvaTecnicaApisul\bin\Debug\net6.0\ProvaTecnicaApisul.deps.json
+C:\Users\tudye\Desktop\C#\ProvaApisul\ProvaTecnicaApisul\ProvaTecnicaApisul\bin\Debug\net6.0\ProvaTecnicaApisul.runtimeconfig.json
+C:\Users\tudye\Desktop\C#\ProvaApisul\ProvaTecnicaApisul\ProvaTecnicaApisul\bin\Debug\net6.0\ProvaTecnicaApisul.dll
+C:\Users\tudye\Desktop\C#\ProvaApisul\ProvaTecnicaApisul\ProvaTecnicaApisul\bin\Debug\net6.0\ProvaTecnicaApisul.pdb
+C:\Users\tudye\Desktop\C#\ProvaApisul\ProvaTecnicaApisul\ProvaTecnicaApisul\obj\Debug\net6.0\ProvaTecnicaApisul.csproj.AssemblyReference.cache
+C:\Users\tudye\Desktop\C#\ProvaApisul\ProvaTecnicaApisul\ProvaTecnicaApisul\obj\Debug\net6.0\ProvaTecnicaApisul.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tudye\Desktop\C#\ProvaApisul\ProvaTecnicaApisul\ProvaTecnicaApisul\obj\Debug\net6.0\ProvaTecnicaApisul.AssemblyInfoInputs.cache
+C:\Users\tudye\Desktop\C#\ProvaApisul\ProvaTecnicaApisul\ProvaTecnicaApisul\obj\Debug\net6.0\ProvaTecnicaApisul.AssemblyInfo.cs
+C:\Users\tudye\Desktop\C#\ProvaApisul\ProvaTecnicaApisul\ProvaTecnicaApisul\obj\Debug\net6.0\ProvaTecnicaApisul.csproj.CoreCompileInputs.cache
+C:\Users\tudye\Desktop\C#\ProvaApisul\ProvaTecnicaApisul\ProvaTecnicaApisul\obj\Debug\net6.0\ProvaTecnicaApisul.dll
+C:\Users\tudye\Desktop\C#\ProvaApisul\ProvaTecnicaApisul\ProvaTecnicaApisul\obj\Debug\net6.0\refint\ProvaTecnicaApisul.dll
+C:\Users\tudye\Desktop\C#\ProvaApisul\ProvaTecnicaApisul\ProvaTecnicaApisul\obj\Debug\net6.0\ProvaTecnicaApisul.pdb
+C:\Users\tudye\Desktop\C#\ProvaApisul\ProvaTecnicaApisul\ProvaTecnicaApisul\obj\Debug\net6.0\ProvaTecnicaApisul.genruntimeconfig.cache
+C:\Users\tudye\Desktop\C#\ProvaApisul\ProvaTecnicaApisul\ProvaTecnicaApisul\obj\Debug\net6.0\ref\ProvaTecnicaApisul.dll
